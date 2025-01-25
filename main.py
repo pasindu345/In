@@ -3,7 +3,7 @@ from flask import Flask
 from threading import Thread
 
 # Telegram Bot Token
-BOT_TOKEN = "7292391889:AAETfgKVmLvRWUt_UQ3FjR7_5SDozQX_o00"  # ඔබේ Bot Token එක
+BOT_TOKEN = "7292391889:AAEwUuw5WfF2loeLys3OiAF0kIjye6DIkms"  # ඔබේ Bot Token එක
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Admin ID
